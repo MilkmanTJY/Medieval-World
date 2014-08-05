@@ -1,0 +1,57 @@
+Sim_object Rivendale constructed
+Structure Rivendale constructed
+Farm Rivendale constructed
+Sim_object Sunnybrook constructed
+Structure Sunnybrook constructed
+Farm Sunnybrook constructed
+Sim_object Shire constructed
+Structure Shire constructed
+Town_Hall Shire constructed
+Sim_object Paduca constructed
+Structure Paduca constructed
+Town_Hall Paduca constructed
+Sim_object Pippin constructed
+Agent Pippin constructed
+Peasant Pippin constructed
+Sim_object Merry constructed
+Agent Merry constructed
+Peasant Merry constructed
+Sim_object Zug constructed
+Agent Zug constructed
+Soldier Zug constructed
+Sim_object Bug constructed
+Agent Bug constructed
+Soldier Bug constructed
+
+Time 0: Enter command: Bug: I'm on the way
+
+Time 0: Enter command: Bug: step...
+Farm Rivendale now has 52.00
+Farm Sunnybrook now has 52.00
+
+Time 1: Enter command: Bug: step...
+Farm Rivendale now has 54.00
+Farm Sunnybrook now has 54.00
+
+Time 2: Enter command: Bug: I'm there!
+Farm Rivendale now has 56.00
+Farm Sunnybrook now has 56.00
+
+Time 3: Enter command: Bug: I'm attacking!
+
+Time 3: Enter command: Bug: Clang!
+Zug: Ouch!
+Zug: I'm attacking!
+Farm Rivendale now has 58.00
+Farm Sunnybrook now has 58.00
+Zug: Clang!
+Bug: Ouch!
+
+Time 4: Enter command: Bug: Clang!
+Zug: Ouch!
+Farm Rivendale now has 60.00
+Farm Sunnybrook now has 60.00
+Zug: Clang!
+Bug: Ouch!
+
+Time 5: Enter command: Done

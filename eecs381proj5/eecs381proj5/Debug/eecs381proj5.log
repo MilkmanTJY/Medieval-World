@@ -1,0 +1,35 @@
+﻿Build started 7/26/2014 2:04:23 PM.
+     1>Project "C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\eecs381proj5\eecs381proj5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:strict /Za /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Agent.cpp Controller.cpp Model.cpp Views.cpp Warriors.cpp p5_main.cpp
+         Controller.cpp
+     1>c:\users\torey\documents\visual studio 2012\projects\eecs381proj5\eecs381proj5\controller.cpp(107): warning C4101: 'b' : unreferenced local variable
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Warriors.cpp
+         Views.cpp
+         Model.cpp
+         Agent.cpp
+         p5_main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\Debug\eecs381proj5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\Debug\eecs381proj5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\Debug\eecs381proj5.lib" /MACHINE:X86 Debug\Agent.obj
+         Debug\Agent_factory.obj
+         Debug\Controller.obj
+         Debug\Farm.obj
+         Debug\Geometry.obj
+         Debug\Model.obj
+         Debug\Moving_object.obj
+         Debug\p5_main.obj
+         Debug\Peasant.obj
+         Debug\Sim_object.obj
+         Debug\Structure.obj
+         Debug\Structure_factory.obj
+         Debug\Town_Hall.obj
+         Debug\Views.obj
+         Debug\Warriors.obj
+         eecs381proj5.vcxproj -> C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\Debug\eecs381proj5.exe
+     1>Done Building Project "C:\Users\Torey\Documents\Visual Studio 2012\Projects\eecs381proj5\eecs381proj5\eecs381proj5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.52
